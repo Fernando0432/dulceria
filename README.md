@@ -7,3 +7,4 @@ sexto creamos una base de datos llamada dulceria
 septimo importamos los archivos para que pueda funcionar
 octavo una vez haciendo eso pondremos eso para que nos habra la pagina http://localhost/CRUD/
 noveno con eso ya podriamos interactuar con la pagina y revisarla 
+les pongo los pasos por si el link no los deja haganlo de esa forma
